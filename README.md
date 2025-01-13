@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate **FullStack Developer**, **Writer
 
 - 🎓 **Degree in Computer Science** from **Karatina University**.
 - 🌐 FullStack Developer with experience in both **frontend** and **backend** technologies.
-- 🖥️ Currently pursuing a **React Native** to expand my skill set.
+- 🖥️ Currently learning **React Native** to expand my skill set.
 
 ---
 
