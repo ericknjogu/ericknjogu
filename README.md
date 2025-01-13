@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Kawaida Catholic Church Website](kawaidacatholicchurch.org)
 
-- 🌱 I’m currently learning **NextJs,**
+- 🌱 I’m currently learning **ReactNative,**
 
 - 💬 Ask me about **Javascript, React, NextJs, NodeJs, API Intergration**
 
