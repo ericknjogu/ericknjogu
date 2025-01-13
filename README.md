@@ -44,9 +44,9 @@ I'm always expanding my toolkit and staying up-to-date with the latest trends in
 
 Here are a few of the projects I've worked on or contributed to. Feel free to check them out!
 
-- **Kawaida catholic church website**:- 🔭 I’m currently working on [Kawaida Catholic Church Website](kawaidacatholicchurch.org).
-- **fitness app**: A full-stack fitness application made using NexJs [Fitness App](erickfitnessapp.netlify.app) .
-- **youtube clone**: A youtube clone web application made using ReactJs [Youtube Clone](erickyoutubeclone.netlify.app).
+- **Kawaida catholic church website**:- 🔭 I’m currently working on [Kawaida Catholic Church Website](www.kawaidacatholicchurch.org).
+- **fitness app**: A full-stack fitness application made using NexJs [Fitness App](www.erickfitnessapp.netlify.app) .
+- **youtube clone**: A youtube clone web application made using ReactJs [Youtube Clone](www.erickyoutubeclone.netlify.app).
 
 ---
 
