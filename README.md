@@ -25,7 +25,7 @@
 
 - 👨‍💻 All of my projects are available [@ericknjogu](https://github.com/ericknjogu)
 
-- 💬 Ask me about **Frontend & Backend Engineering 😆**
+- 💬 Ask me about **Frontend & Backend Development 😆**
 
 - ⚡ Fun fact **Coding is a passion and not profession.**
 - :technologist: I love using Software as a solution for every `Problem`.
