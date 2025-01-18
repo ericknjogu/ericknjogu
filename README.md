@@ -23,7 +23,7 @@
 
 - 🤝 I’m looking for help with **API development**
 
-- 👨‍💻 All of my projects are available [@ericknjogu](https://github.com/ericknjogu)
+- 👨‍💻 All of my projects are available on [@ericknjogu](https://github.com/ericknjogu)
 
 - 💬 Ask me about **Frontend & Backend Development 😆**
 
