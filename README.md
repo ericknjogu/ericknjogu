@@ -8,7 +8,7 @@
 <h3 font-size="20" align="center">A Full-stack WEB developer and a computer science graduate from Kenya.</h3>
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/Age-25-blue" /> -->
-  <img src="https://img.shields.io/badge/Focus-Full Stack Engineering-blue" />
+  <img src="https://img.shields.io/badge/Focus-Full Stack Development-blue" />
   <img src="https://img.shields.io/badge/Lives-Nairobi Kenya-blue" />
  
 </p>
