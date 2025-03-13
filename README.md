@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Erick Njogu<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">A Full-stack WEB developer and a computer science graduate from Kenya.</h3>
+<h3 font-size="20" align="center">A Full-stack web developer and a computer science graduate from Kenya.</h3>
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/Age-25-blue" /> -->
   <img src="https://img.shields.io/badge/Focus-Full Stack Development-blue" />
