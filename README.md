@@ -15,9 +15,9 @@
 <br/>
 
 
-- 🌱 I’m currently learning **NextJs & React Native**
+- 🌱 I’m currently learning **C#**
 
-- 👨‍💻 I’m currently working on **[Kawaida Catholic Church Website](https://kawaidacatholicchurch.org)** 
+- 👨‍💻 I’m currently working on **ASP.NET Webforms** 
 
 - 👯 I’m looking to collaborate on **Next Js**
 
