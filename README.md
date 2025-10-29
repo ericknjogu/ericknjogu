@@ -17,9 +17,9 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 👨‍💻 I’m currently working on **ASP.NET Webforms** 
+- 👨‍💻 I’m currently working on **Cross Platform Development** 
 
-- 👯 I’m looking to collaborate on **Next Js**
+- 👯 I’m looking to collaborate on **Next Js And .NET**
 
 - 🤝 I’m looking for help with **API development**
 
